@@ -4,3 +4,4 @@ numpy
 jupyter
 rsconnect-python
 rsconnect-jupyter
+matplotlib
