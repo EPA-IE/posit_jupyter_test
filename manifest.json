@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "English_Ireland.1252",
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "random_scatter.ipynb"
+  },
+  "python": {
+    "version": "3.11.9",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.0.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "random_scatter.ipynb": {
+      "checksum": "692ea46a75d42e82b77e264cc37932fd"
+    },
+    "requirements.txt": {
+      "checksum": "1f86d0a2425abb21bd78d814f2fb0caf"
+    }
+  }
+}
