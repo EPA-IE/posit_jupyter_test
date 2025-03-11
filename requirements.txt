@@ -3,3 +3,4 @@ plotly
 numpy
 jupyter
 rsconnect-python
+rsconnect-jupyter
